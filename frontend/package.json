@@ -1,0 +1,78 @@
+{
+  "name": "your-frontend-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/plugin-transform-class-properties": "^7.24.0",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.0",
+    "@babel/plugin-transform-numeric-separator": "^7.24.0",
+    "@babel/plugin-transform-private-methods": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.24.0",
+    "@date-io/date-fns": "^2.17.0",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.8",
+    "@mui/lab": "^6.0.0-beta.14",
+    "@mui/material": "^6.1.7",
+    "@mui/x-date-pickers": "^7.23.0",
+    "@react-pdf/renderer": "^4.1.5",
+    "date-fns": "^2.30.0",
+    "dayjs": "^1.11.13",
+    "framer-motion": "^11.11.17",
+    "glob": "^10.4.5",
+    "immer": "^10.0.3",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^4.9.124",
+    "postcss": "^8.4.35",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-pdf": "^9.1.1",
+    "react-router-dom": "^6.28.0",
+    "react-scripts": "^5.0.1",
+    "uuid": "^11.0.3",
+    "webpack": "^5.96.1",
+    "workbox-core": "^7.0.0",
+    "workbox-expiration": "^7.0.0",
+    "workbox-precaching": "^7.0.0",
+    "workbox-routing": "^7.0.0",
+    "workbox-strategies": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.24.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.57.0",
+    "rimraf": "^5.0.5",
+    "typescript": "^4.9.5"
+  },
+  "resolutions": {
+    "postcss": "^8.4.35",
+    "nth-check": "^2.1.1",
+    "semver": "^7.5.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "overrides": {
+    "postcss": "^8.4.35",
+    "nth-check": "^2.1.1",
+    "semver": "^7.5.4"
+  }
+}
