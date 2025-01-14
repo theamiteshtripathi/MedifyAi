@@ -7,7 +7,7 @@
 Medify AI is a cloud-native healthcare system that combines conversational AI with sophisticated medical case analysis to provide comprehensive symptom analysis and treatment recommendations.
 
 ## System Architecture
-![Healthcare System Pipeline](backend/ml_pipeline/images/Flowchart.png)
+![Healthcare System Pipeline](assets/MedifyAIFlowchart.png)
 
 The system operates in two main phases:
 1. A specialized medical chatbot (HealthcarechatLLM) conducts structured symptom collection with real-time emergency detection

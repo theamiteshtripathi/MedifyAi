@@ -6,6 +6,8 @@
 *.pkl
 *.html
 
+interview_prep.md
+ml_engineering_interview_prep.md
 #ML-Pipeline realted
 mlruns/
 
