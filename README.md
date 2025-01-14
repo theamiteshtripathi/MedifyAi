@@ -35,7 +35,7 @@ The system operates in two main phases:
 - [Data Pipeline Documentation](backend/data_pipeline/README.md)
 
 ## Video Demo
-[Project Demo Video](https://drive.google.com/drive/folders/19H8RAABVZ1dCw0p4YTw2ry5hKUAxjPj8?usp=sharing)
+[Project Demo Video](https://drive.google.com/file/d/1f1oremN6qpd2ARr6EPXDeoeYzUmUKJGR/view?usp=drive_link)
 
 ## Deployment
 The system is deployed on AWS EKS with:
