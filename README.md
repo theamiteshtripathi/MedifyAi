@@ -139,9 +139,9 @@ Contributions are welcome! Please read our [contributing guide](CONTRIBUTING.md)
 ### Collaborators
 
 - **Amitesh Tripathi** - [tripathi.am@northeastern.edu]
-- **Rohit Kumar Gaddam** - [gaddamsreeramulu.r@northeastern.edu]
 - **Deepak Udayakumar** - [udayakumar.de@northeastern.edu]
 - **Dinesh Sai Pappuru** - [pappuru.d@northeastern.edu]
+- **Rohit Kumar Gaddam** - [gaddamsreeramulu.r@northeastern.edu]
 - **Sneha Amin** - [amin.sn@northeastern.edu]
 
 ## License
